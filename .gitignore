@@ -1,0 +1,9 @@
+data/
+job_posting_decision_model_modernbert/
+my_awesome_decision_model/
+create_ds.py
+jobs_postings.parquet
+test_imdb.py
+train_job_postings.py
+__pycache__/
+.DS_Store
